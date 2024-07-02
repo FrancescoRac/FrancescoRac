@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Francesco Rachiglia, a robotics engineering student at UniGe, with a bachelor degreee in computer science and automation engineering. <br><br>- 🔭 I’m currently working on Robotics Application; <br>- 🌱 I’m currently learning different programming language such as C, C++, python and Matlab;<br>- 📫 How to reach me: ceccorac@gmail.com
+I'm Francesco Rachiglia, a robotics engineering student at UniGe, with a bachelor degreee in computer science and automation engineering. <br><br>- 🔭 I’m currently working on Robotics Application; <br>- 🌱 I’m currently learning different programming language such as C, C++, python and Matlab;<br>- 📫 How to reach me: ceccorac@gmail.com, s6478122@studenti.unige.it
 
 Here you can find my only scientific article related to ***Automated reorientation under directional constraints for spacecraft*** published by **Acta Astronautica**:
 https://www.sciencedirect.com/science/article/pii/S0094576523006835
